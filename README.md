@@ -2,7 +2,9 @@
 
 **MAICHNI Hajar**
 *   Master's Student in Computer Science and Embedded Systems 
+
 Email : hajar.maichni01@gmail.com
+
 Linkedin: https://www.linkedin.com/in/hajar-maichni-039669340/
 
 ## 📖 Project Overview
